@@ -1,0 +1,13 @@
+src/main/java/co/com/shoppingdemoblaze/user_interfaces/ConfirmOrderPage.java,1591811291653949000,367,FORMATTED
+src/main/java/co/com/shoppingdemoblaze/tasks/ProceedToPay.java,1591814525400446000,2214,FORMATTED
+src/main/java/co/com/shoppingdemoblaze/user_interfaces/HomeProducts.java,1591799171981056000,678,FORMATTED
+src/main/java/co/com/shoppingdemoblaze/questions/ConfirmMessage.java,1591813329184666000,554,FORMATTED
+src/main/java/co/com/shoppingdemoblaze/user_interfaces/ProductDescription.java,1591751644620844000,370,FORMATTED
+src/test/java/co/com/shoppingdemoblaze/stepdefinitions/BuyLaptopStepDefinition.java,1591814525454448000,1956,FORMATTED
+src/main/java/co/com/shoppingdemoblaze/user_interfaces/DetailProductsPay.java,1591805937470688000,468,FORMATTED
+src/main/java/co/com/shoppingdemoblaze/interactions/OpenBrowser.java,1591741114541058000,680,FORMATTED
+src/main/java/co/com/shoppingdemoblaze/utils/Constants.java,1591805280426127000,665,FORMATTED
+src/main/java/co/com/shoppingdemoblaze/tasks/AddToCart.java,1591810040098058000,1212,FORMATTED
+src/main/java/co/com/shoppingdemoblaze/tasks/SelectProduct.java,1591814525421447000,1016,FORMATTED
+src/test/java/co/com/shoppingdemoblaze/runners/BuyLaptop.java,1591739930364327000,453,FORMATTED
+src/main/java/co/com/shoppingdemoblaze/user_interfaces/FormPlaceOrder.java,1591805280406129000,429,FORMATTED
